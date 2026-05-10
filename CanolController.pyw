@@ -1,3 +1,5 @@
+# Under LICENSE: Radioxians SA LICENSE (Source Available, for more info, view the file LICENSE)
+
 import tkinter as tk
 from tkinter import messagebox
 import webbrowser
